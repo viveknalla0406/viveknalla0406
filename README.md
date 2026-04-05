@@ -33,10 +33,10 @@ AI-powered system that converts daily activity logs + reflections into actionabl
 ## 🧩 AI Products I’ve Built
 
 - 🤖 **Multi-Agent GenAI Analytics Assistant** 
-- 📝 **LLM-based Grading System (Llama 3, Bedrock)** — 280K+ assessments processed :contentReference[oaicite:0]{index=0}  
+- 📝 **LLM-based Grading System (Llama 3, Bedrock)** — 280K+ assessments processed 
 - 📊 **Adaptive Learning Engine (IRT-based ML system)**
 - 🔄 **AI Workflow Automation Platform (Agent-based)**
-- 🎤 **Speech AI Assessment System** :contentReference[oaicite:1]{index=1}  
+- 🎤 **Speech AI Assessment System** 
 
 ---
 
