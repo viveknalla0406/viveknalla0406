@@ -1,48 +1,91 @@
+# Hi 👋, I'm Vivek Nalla
 
+💼 Senior Product Manager | AI & GenAI Products  
+🚀 Building AI-driven analytics, multi-agent systems & decision intelligence platforms  
+📍 Bengaluru, India  
 
-# Vivek Nalla
+---
 
-I'm a **Product Manager** with a decade of experience building and scaling SaaS, B2B, B2G, B2C, ML, Gen AI, Data, and UX products. I thrive at the intersection of technology, design, and business-turning ideas into impactful solutions. My journey is defined by curiosity, adaptability, and a passion for delivering value through innovation.
+## 🧠 About Me
 
-📫 How to reach me:
+AI Product Leader with 10+ years of experience building and scaling AI, GenAI, and data platform products across EdTech, GovTech, and enterprise analytics.
 
-- Email: vivek.nalla.mail@gmail.com
-- LinkedIn: https://www.linkedin.com/in/viveknalla1/
+- 🧩 Built **multi-agent AI systems, RAG pipelines, and LLM-powered products**
+- 📊 Delivered **$3M+ revenue impact & 50–60% efficiency gains**
+- ⚡ Led **0 → 1 AI products** and scaled platforms across millions of users
+- 🏗️ Strong blend of **product strategy + technical depth (ex-Amazon SDE)**
 
+---
 
-## 🚀 Experience Highlights
+## 🔥 What I’m Currently Working On
 
-### Product Delivery Manager, Convegenius                                                                                                *Sep 2024 – Present | Chennai, India*
+### 🧠 AI Productivity Insights Engine
+AI-powered system that converts daily activity logs + reflections into actionable productivity insights using behavioral analytics.
 
-- **AI Insights Bot**: Developed an AI-driven assistant for education administrators that harnesses ChatGPT-4.0 and DALL·E to deliver real-time data insights, directly contributing to new revenue growth.
-- **Dynamic Reports Module**: Introduced a ground-up reporting solution using Microsoft Fabric, allowing users to generate custom reports from semantic models and driving a significant revenue increase.
-- **World Bank Project**: Directed the creation of the Andhra Pradesh Teacher Professional Development Bot, serving as a pivotal integration for a major World Bank-funded initiative.
-- **Cloud Migration**: Led large-scale migrations of state education department data to the cloud, resulting in substantial cost savings and improved operational efficiency
+- 📊 Generates **productivity scores, focus patterns & recommendations**
+- 🤖 Built with **Gemini AI + structured behavioral signals**
+- 🧩 Includes an **AI productivity coach assistant**
 
-### Product Manager, Academian                                                                                                        *Nov 2023 – Sep 2024 | Hyderabad, India*
+🔗 Live Demo: https://ai-productivity-insights-engine-365.lovable.app  
 
-- **AI Grading Assistant**: Integrated Llama3 LLM into a grading product, cutting grading time by 20% for 10M+ assessments and raising NPS by 20%.
-- **Diagnostic Assessment Suite**: Developed an oral reading fluency suite with Azure Speech Studio, driving $1M in new revenue.
-- **Platform Upgrades**: Enhanced e-assessment with QTI 3.0, gamification, and improved accessibility (WCAG 2.2), increasing NPS by 10%.
+---
 
-### Product Manager, Next Education                                                                                                   *Feb 2023 – Nov 2023 | Hyderabad, India*
+## 🧩 AI Products I’ve Built
 
-- **Adaptive Assessments**: Designed adaptive assessments and personalized recommendations using IRT and KST, boosting NPS by 20%.
-- **EdTech Integrations**: Integrated robotics, Scratch, and Python platforms into LMS, adding $500K in revenue.
+- 🤖 **Multi-Agent GenAI Analytics Assistant** 
+- 📝 **LLM-based Grading System (Llama 3, Bedrock)** — 280K+ assessments processed :contentReference[oaicite:0]{index=0}  
+- 📊 **Adaptive Learning Engine (IRT-based ML system)**
+- 🔄 **AI Workflow Automation Platform (Agent-based)**
+- 🎤 **Speech AI Assessment System** :contentReference[oaicite:1]{index=1}  
 
-### Product Consultant, Govt. of Andhra Pradesh                                                                                      *Jan 2021 – Jan 2023 | Vijayawada, India*
+---
 
-- **LMS for GSWS**: Built a custom LMS for 400,000+ functionaries, improving project metric tracking by 25%.
-- **CLAP Program**: Co-developed the Clean Andhra Pradesh initiative, prioritized features, and delivered offline capabilities, increasing NPS by 15%.
+## 🛠️ Tech & Product Stack
 
+### AI / ML
+`LLMs` `RAG` `Multi-Agent Systems` `Prompt Engineering` `Model Evaluation`
 
-### Product Manager, Linq Pay                                                                                                        *Jan 2017 – Dec 2020 | Hyderabad, India*
+### Data & Analytics
+`Python` `SQL` `Data Lakes (AWS, Azure)` `Power BI` `Tableau` `QuickSight`
 
-- **Roadmap & Sprints**: Prioritized features, wrote user stories, and improved team velocity by 20%.
-- **Digital Store Launch**: Led the rollout of 12,000 digital stores across India.
-- **Retail Transformation**: Enabled 50,000 retailers to adopt e-commerce and financial services, increasing transactions by 30% and revenue by 20%.
+### Product & Systems
+`Product Strategy` `0→1 Innovation` `AI Platforms` `Workflow Automation`  
+`A/B Testing` `User Research` `Agile / Scrum`
 
-### Software Development Engineer, Amazon                                                                                             *Jun 2015 – Aug 2016 | Hyderabad, India*
+---
 
-- **Data Ingestion & ML**: Developed scalable ingestion pipelines for unstructured, multilingual data with 95% accuracy using image processing and NLP.
-- **Marketplace Launch**: Piloted a solution for Amazon EU Marketplace, onboarding 50,000 seller products in under 2 minutes with zero drop rate.
+## 📈 Impact Highlights
+
+- 🚀 $2M+ partnerships driven through AI analytics platforms :contentReference[oaicite:2]{index=2}  
+- ⚡ Reduced reporting cycles from **5 days → hours**  
+- 📊 Improved operational efficiency by **50–60%**  
+- 🧠 Built systems analyzing **100+ datasets at scale**
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|--------|------------|
+| AI Productivity Insights Engine | AI behavioral analytics system for productivity |
+| AI-powered no-code dashboard builder |
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/viveknalla1/  
+- 📧 Email: viveknalla0406@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building AI systems that bridge **behavior → insights → decisions**  
+(also into fitness, meditation & photography 📸)
+
+---
+
+## 📊 GitHub Stats
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=viveknalla406&show_icons=true&theme=radical)
